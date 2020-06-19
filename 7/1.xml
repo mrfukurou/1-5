@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<item xmlns="http://127.0.0.1/1.xsd" text="root" rustext="Начало" url="/">
+  <item text="vc" rustext="Visual C++" url="/vcnet/">
+    <item text="mfc" rustext="MFC" url="" />
+    <item text="atl" rustext="ATL" url="" />
+    <item text="samples" rustext="Примеры" url="">
+      <item text="lines" rustext="Lines" url="" />
+    </item>
+  </item>
+  <item text="vbnet" rustext="VB.NET" url="/vbnet/">
+    <item text="console" rustext="Основы" url="" />
+    <item text="windows" rustext="Windows" url="" />
+  </item>
+</item>
