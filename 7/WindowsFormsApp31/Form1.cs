@@ -22,7 +22,7 @@ namespace WindowsFormsApp31
         {
             XmlDocument xml = new XmlDocument();
             // Загружаем в xml-документ xml-файл.
-            xml.Load("1.xml");
+            xml.Load(@"C:\Users\fukur\Desktop\Учёба\3 курс\Практика2\6-7 неделя\7\1.xml");
             // Берем корневой узел (тег) xml-документа.
             XmlNode d = xml.DocumentElement;
             // Берем все дочерние теги.
